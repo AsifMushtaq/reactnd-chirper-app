@@ -27,7 +27,7 @@ let tweets = {
     timestamp: 1518122597860,
     likes: ['tylermcginnis'],
     replies: ['fap8sdxppna8oabnxljzcv', '3km0v4hf1ps92ajf4z2ytg'],
-    replyingTo: null,
+    replyingTo: "5c9qojr2d1738zlx09afby",
   },
   "5c9qojr2d1738zlx09afby": {
     id: "5c9qojr2d1738zlx09afby",
